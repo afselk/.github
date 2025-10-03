@@ -9,7 +9,7 @@
   />
 </h3>
 
-[Galactica.com](https://galactica.com/) is an L1 blockchain infrastructure platform designed for bridging real-world asset (RWAs) liquidity and decentralized finance primitives through zero-knowledge KYC and other compliant privacy solutions enforced privately on the level of transactional stack. Built to maintain Web3 ethos while enabling RegTech applications, it provides a privacy-preserving compliance layer for RWA integration. 
+[Galactica.com](https://galactica.com/) is an L2 blockchain infrastructure platform designed for bridging real-world asset (RWAs) liquidity and decentralized finance primitives through zero-knowledge KYC and other compliant privacy solutions enforced privately on the level of transactional stack. Built to maintain Web3 ethos while enabling RegTech applications, it provides a privacy-preserving compliance layer for RWA integration. 
 
 Galactica.com's IVM (Identity Virtual Machine) leverages the latest advances in applied cryptography, such as mentioned above zero-knowledge (ZK) proofs and fully homomorphic encryption (FHE). This protects user privacy and ensures smooth verification, turning into a powerful tool in managing digital identities.
 
